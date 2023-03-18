@@ -1,5 +1,7 @@
 # basemillions
 
+turn your data into colors
+
 ## Project setup
 ```
 npm install
